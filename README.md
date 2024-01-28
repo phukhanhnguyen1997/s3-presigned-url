@@ -7,7 +7,7 @@ Amazon S3: First look and simple demo to upload image to S3 with Presigned url[h
 ## 1. Install packages
 Go to `aws-s3-demo-nodejs` and run `npm install` to install needed packages for server.
 
-Go to `aws-s3-demo-react` and run `npm install to install needed packages for client.
+Go to `aws-s3-demo-react` and run `npm install` to install needed packages for client.
 ## 2. Replace env variable
 Replace your aws credentials and s3 bucket name.
 ## 3. Run server
